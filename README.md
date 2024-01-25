@@ -1,0 +1,5 @@
+Using Machine Learning Algorithms to Predict Credit Card Approval
+
+With the rapid development of credit card availability, the need to critically analyze the financial risks that come with a credit card application is detrimental to a consumer and a corporation. Reducing the risk of credit card defaults inclines the need for factors such as affordability to always be under supervision.  At times, more lenient standards have allowed consumers to borrow more than they can repay. However, with stringent credit searches, companies would be able to gauge the eligibility of a consumer as responsibilities such as house ownership, the amount of dependants they have, family members as potential guarantors are vital to the amount payable a month, and interest rates on loans. 
+
+Instances such as the credit card crisis in 2008 caused many house-loan defaults which is the highest responsibility of consumers' monthly payments. This shows that the prediction of credit card profile analysis is an integral process before the approval of a consumer.
